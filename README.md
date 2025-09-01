@@ -33,6 +33,8 @@ https://t.me/toneachat
 
 
 
+下面的 JSON 数据是 getAvailableGifts 方法返回的部分信息，仅供参考。
+
 ```json
 {
 {
